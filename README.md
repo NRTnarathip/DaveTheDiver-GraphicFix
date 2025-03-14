@@ -11,6 +11,9 @@
 - 1.3 Click list game "Dave The Diver"
 - 1.4 Click install and wait to notify successfully
 
+2. Download GraphicFix.dll
+- https://github.com/NRTnarathip/DaveTheDiver-GraphicFix/releases
+
 2. Copy file "GraphicFix.dll" to folder "Mods" with path 
 - C:\Program Files (x86)\Steam\steamapps\common\Dave the Diver\Mods\GraphicFix.dll
 
