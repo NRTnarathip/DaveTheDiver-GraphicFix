@@ -4,6 +4,13 @@
 1. Remove Post Processing
 2. Unlock 60FPS to maximum on your screen hz
 
+# Before
+![Screenshot 2025-03-14 233422](https://github.com/user-attachments/assets/240c4b46-c255-4fed-926e-900b8a04f70f)
+
+# After
+![Screenshot 2025-03-14 233436](https://github.com/user-attachments/assets/0eaef673-e585-47c6-b3fc-3b8cbeda5a13)
+
+
 # How To Install Mod
 1. Install Melon Loader from 
 - 1.1 Download link: https://github.com/LavaGang/MelonLoader.Installer/releases/latest/download/MelonLoader.Installer.exe
